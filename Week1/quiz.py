@@ -29,6 +29,7 @@ possiblities = 10 ** 8
 print(possiblities) 
 
 # Should print 100000000
+# be careful with your syntax
 
 
 disk_size = 16*1024*1024*1024
